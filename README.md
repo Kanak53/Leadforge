@@ -1,4 +1,4 @@
-# LeadFlow – Lead Management System
+# LeadForge – Lead Management System
 
 A full-stack MERN application to manage potential customers, track lead status, and organize follow-ups.
 
